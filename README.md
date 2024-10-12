@@ -1,9 +1,9 @@
 <h1>Como baixar e jogar ❓</h1>
 Para baixar é muito simples, vá até o canto direito superior em "code" conforme o print abaixo:
-<img src="./imgs/print1" alt="Instrução 1">
+<img src="./imgs/print1.png" alt="Instrução 1">
 
 Baixe na opção zip:
-<img src="./imgs/print2" alt="Instrução 2">
+<img src="./imgs/print2.png" alt="Instrução 2">
 
 
 <h1>História 📖</h1>
@@ -16,7 +16,5 @@ A proposta é ser um jogo de plataforma com rolagem lateral, estilo Super Mario 
 <img src="./imgs/imgspasprin.png" alt="Tela do player parado">
 
 
-
-
-<h1>Relatório 📓</h1>h1>
+<h1>Relatório 📓</h1>
 Aqui está o relatório desenvolvido durante o desenvolvimento do jogo, entrando em detalhes mais técnicos de como o jogo foi elaborado
