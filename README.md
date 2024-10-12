@@ -6,7 +6,7 @@ Para baixar é muito simples, vá até o canto direito superior em "code" confor
 
 
 <h2>História 📖</h2>
-Space Sprint conta a história de um astronauta que em uma viagem exploratória em que sua nave sofre colisões e acaba se encontrando um novo sistema planetário desconhecido, fazendo assim, com que passe por diversos planetas e encontre sua nave novamente para retomar com a missão.
+Space Sprint conta a história de um astronauta que em uma viagem exploratória sua nave sofre colisões e acaba se encontrando um novo sistema planetário desconhecido, fazendo assim, com que passe por diversos planetas e encontre sua nave novamente para retomar com a missão.
 
 <img src="./imgs/primeirogif.gif" alt="Gif perdido em marte" style="display: block; margin: 0 auto;" width="900">
 
