@@ -13,7 +13,7 @@ Space Sprint conta a história de um astronauta que em uma viagem exploratória 
 
 <h3>Proposta do jogo 🎮</h3>
 A proposta é ser um jogo de plataforma com rolagem lateral, estilo Super Mario Bross, mecânica do jogo é bem simples, sendo guiado pelas teclas tradicionais, conforme é exibido abaixo:
-<img src="./imgs/imgspasprin.png" alt="Tela do player parado" width="400">
+<img src="./imgs/imgspasprin.png" alt="Tela do player parado" width="600">
 
 
 <h3>Relatório 📓<h3>
