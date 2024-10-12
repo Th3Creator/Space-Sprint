@@ -16,7 +16,7 @@ A proposta é ser um jogo de plataforma com rolagem lateral, estilo Super Mario 
 <img src="./imgs/imgspasprin.png" alt="Tela do player parado" width="600">
 
 <h2>Gemaplay do jogo 👾</h2>
-[Assista ao vídeo de gameplay](https://youtu.be/k-bqz5B9xl0) 
+<a href="https://youtu.be/k-bqz5B9xl0" target="_blank"></a>
 
 <h2>Relatório 📓</h2>
 Aqui está o relatório desenvolvido durante o desenvolvimento do jogo, entrando em detalhes mais técnicos de como o jogo foi elaborado
