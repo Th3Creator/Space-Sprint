@@ -1,8 +1,7 @@
 <h1>Como baixar e jogar ❓</h1>
-Para baixar é muito simples, vá até o canto direito superior em "code" conforme o print abaixo:
+Para baixar é muito simples, vá até o canto direito superior em "code" conforme o print abaixo, depois clique na opção zip:
 <img src="./imgs/print1.png" alt="Instrução 1" width="400">
 
-Baixe na opção zip:
 <img src="./imgs/print2.png" alt="Instrução 2" width="400">
 
 
@@ -17,8 +16,8 @@ A proposta é ser um jogo de plataforma com rolagem lateral, estilo Super Mario 
 <img src="./imgs/imgspasprin.png" alt="Tela do player parado" width="400">
 
 
-<h1>Relatório 📓</h1>
+<h3>Relatório 📓<h3>
 Aqui está o relatório desenvolvido durante o desenvolvimento do jogo, entrando em detalhes mais técnicos de como o jogo foi elaborado
 <a href="./imgs/Relatório descritivo de desenvolvimento.pdf" download="Relatório descritivo de desenvolvimento.pdf">
-  <button>Baixar Relatório</button>
+  <button>Visualizar relatório</button>
 </a>
