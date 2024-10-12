@@ -1,5 +1,5 @@
 <h1>Como baixar e jogar ❓</h1>
-Para baixar é muito simples, vá até o canto direito superior em "code" conforme o print abaixo, depois clique na opção zip:
+Para baixar é muito simples, vá até o canto direito superior em "code" conforme o print abaixo:
 <img src="./imgs/print1.png" alt="Instrução 1" width="400">
 
 <img src="./imgs/print2.png" alt="Instrução 2" width="400">
