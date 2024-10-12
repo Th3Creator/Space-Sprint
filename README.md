@@ -5,10 +5,10 @@ Para baixar é muito simples, vá até o canto direito superior em "code" confor
 <img src="./imgs/print2.png" alt="Instrução 2" width="400">
 
 
-<h2>História 📖</h2>>
+<h2>História 📖</h2>
 Space Sprint conta a história de um astronauta que em uma viagem exploratória em que sua nave sofre colisões e acaba se encontrando um novo sistema planetário desconhecido, fazendo assim, com que passe por diversos planetas e encontre sua nave novamente para retomar com a missão.
 
-<center><img src="./imgs/primeirogif.gif" alt="Gif perdido em marte"></center>
+<img src="./imgs/primeirogif.gif" alt="Gif perdido em marte" style="display: block; margin: 0 auto;">
 
 
 <h2>Proposta do jogo 🎮</h2>
